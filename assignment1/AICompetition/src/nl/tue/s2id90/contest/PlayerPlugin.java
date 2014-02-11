@@ -9,7 +9,7 @@ import nl.tue.s2id90.game.Player;
 import nl.tue.s2id90.pluginservice.Plugin;
 
 /**
- * A Plugin that delivers a Player implementation.
+ * A Plugin that deivers a Player implementation.
  * @author huub
  * @param <P> Player
  */
